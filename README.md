@@ -1,4 +1,4 @@
-# mpox_sir
+# mpox SIER model
 
 Final Project for MATH 572
 
