@@ -1,0 +1,49 @@
+>> ssier_eq_eigen_v2
+
+cp =
+
+   1.0e+04 *
+
+    0.0010         0         0         0    1.4990         0         0
+    1.8336   -0.3667   -0.0833    1.8767   -2.2107    0.3670    0.0834
+
+Jacobian matrix at critical point 1:
+   -0.0500         0   -0.0006         0         0         0         0
+    0.0500         0   -0.7465         0   -0.0000         0         0
+         0   -0.2500    0.0006         0         0         0         0
+         0    0.0500    0.7465         0         0   -0.2000         0
+         0    0.2000   -0.8800         0         0         0         0
+         0         0    0.0500         0         0    0.2000   -0.8300
+         0         0    0.8300   -0.0000         0         0    0.8300
+
+Eigenvalues of Jacobian matrix at critical point 1:
+    0.8300
+   -0.4317
+    0.4323
+    0.2000
+   -0.0501
+    0.0000
+   -0.0000
+
+At least one eigenvalue has positive real part, the critical point is unstable
+---------------------------------------
+Jacobian matrix at critical point 2:
+   -0.0000         0   -1.1002         0         0         0         0
+    0.0500         0    1.1009         0    0.0415         0         0
+   -0.0500   -0.2500    1.1002         0         0         0         0
+         0    0.0500   -1.1009         0   -0.0415   -0.2000         0
+         0    0.2000   -0.8800         0         0         0         0
+         0         0    0.0500         0         0    0.2000   -0.8300
+         0         0    0.8300   -0.0000         0         0    0.8300
+
+Eigenvalues of Jacobian matrix at critical point 2:
+   0.8753 + 0.0000i
+   0.8300 + 0.0000i
+   0.2000 + 0.0000i
+   0.1457 + 0.0000i
+   0.0396 + 0.0449i
+   0.0396 - 0.0449i
+  -0.0000 + 0.0000i
+
+At least one eigenvalue has positive real part, the critical point is unstable
+---------------------------------------
